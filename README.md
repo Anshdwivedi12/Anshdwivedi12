@@ -1,5 +1,17 @@
+<div align="center">
+    <h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
+
+</h1>
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ansh Dwivedi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **exam-copy-checker**
 
@@ -33,3 +45,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdwivedi12&show_icons=true&locale=en" alt="anshdwivedi12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdwivedi12&" alt="anshdwivedi12" /></p>
+
+
+<br>
+<div align="center">
+<h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+</h1>
+</div>
