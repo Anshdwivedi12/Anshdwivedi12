@@ -50,6 +50,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdwivedi12&" alt="anshdwivedi12" /></p>
 
 
+
+
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 <br>
 <div align="center">
 <h1>
