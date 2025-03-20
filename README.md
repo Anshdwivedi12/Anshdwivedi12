@@ -15,9 +15,8 @@
 
 
 
-- 🔭 I’m currently working on **exam-copy-checker**
 
-- 🌱 I’m currently learning **ReactJS, Machine Learning**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Exciting React.js projects**
 
