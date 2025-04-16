@@ -26,7 +26,11 @@
 
 - 📫 How to reach me **anshdubeyjii@gmail.com**
 
-- 📄 Know about my experiences [https://anshdwivedi.tiiny.site](https://anshdwivedi.tiiny.site)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
+
+  
+- 📄 Portfolio [https://anshdwivedi.netlify.app/](https://anshdwivedi.netlify.app/)
+
 
 - ⚡ Fun fact **🌙 I code best at night… because bugs sleep, right?**
 
