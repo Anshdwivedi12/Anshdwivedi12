@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **anshdubeyjii@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
 
   
 - 📄 Portfolio [https://anshdwivedi.netlify.app/](https://anshdwivedi.netlify.app/)
