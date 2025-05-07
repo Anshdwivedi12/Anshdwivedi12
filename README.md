@@ -1,80 +1,78 @@
 <div align="center">
-    <h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh+Dwivedi;Software+Engineer+%7C+Web+Developer;Turning+Ideas+into+Code+%F0%9F%92%BB;Fluent+in+Python%2C+CPP+and+JavaScript;Let's+Connect+and+Build+Together)
 
-</h1>
+
+
 </div>
 
+---
 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 I'm a <strong>Computer Science student</strong> from India.</li>
+        <li>💻 Passionate about <strong>Software Engineering</strong> and <strong>Web Development</strong>.</li>
+        <li>🔥 Currently learning <strong>ReactJS</strong> and exploring full-stack development.</li>
+        <li>💬 Ask me about <strong>JavaScript, React, DSA</strong>.</li>
+        <li>📧 Reach me at: <strong>anshdubeyjii@gmail.com</strong></li>
+        <li>📄 <a href="https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view" target="_blank">View My Resume</a></li>
+        <li>🌐 Portfolio: <a href="https://anshdwivedi.netlify.app/" target="_blank">anshdwivedi.netlify.app</a></li>
+        <li>⚡ Fun fact: <em>I code best at night… because bugs sleep, right?</em></li>
+      </ul>
+    </td>
+    <td width="180px">
+      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="GIF">
+    </td>
+  </tr>
+</table>
 
+## 🚀 Skills & Tools
 
-<h1 align="center">Hi 👋, I'm Ansh Dwivedi</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+**Languages:**  
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo= ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
 
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
-- 🌱 I’m currently learning **ReactJS**
+---
 
-- 👯 I’m looking to collaborate on **Exciting React.js projects**
+## 🌐 Connect with Me
 
-- 🤝 I’m looking for help with **Scaling React applications**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshdwivedi)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/anshdwivedi.in)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/anshdwivedi12)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/anshdubeyjii)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://www.leetcode.com/anshdubeyjii)  
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anshdubehvk/profile)  
 
-- 💬 Ask me about **JavaScript, React, DSA,**
+📫 **Email**: anshdubeyjii@gmail.com  
+🌐 **Portfolio**: [anshdwivedi.netlify.app](https://anshdwivedi.netlify.app/)  
+📄 **Resume**: [View Resume](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
 
-- 📫 How to reach me **anshdubeyjii@gmail.com**
+---
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
+## 📊 GitHub Stats
 
-  
-- 📄 Portfolio [https://anshdwivedi.netlify.app/](https://anshdwivedi.netlify.app/)
-
-
-- ⚡ Fun fact **🌙 I code best at night… because bugs sleep, right?**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshdwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshdwivedi" height="30" width="40" /></a>
-<a href="https://instagram.com/anshdwivedi.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshdwivedi.in" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshdwivedi12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshdwivedi12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshdubeyjii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshdubeyjii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshdubeyjii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshdubeyjii" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshdubehvk/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshdubehvk/profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshdwivedi12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshdwivedi12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshdwivedi12&=tokyonight" alt="Streak Stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshdwivedi12&show_icons=true&locale=en&layout=compact" alt="anshdwivedi12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshdwivedi12&show_icons=true&locale=en" alt="anshdwivedi12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshdwivedi12&" alt="anshdwivedi12" /></p>
-
-
-
-
-
-
-
-<br>
 <div align="center">
-<h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!+😊)
 
-</h1>
 </div>
-
-
-
-
-
-
-
-
-
-
-
