@@ -55,7 +55,7 @@
 
 📫 **Email**: anshdubeyjii@gmail.com  
 🌐 **Portfolio**: [anshdwivedi.netlify.app](https://anshdwivedi.netlify.app/)  
-📄 **Resume**: [View Resume](https://drive.google.com/file/d/1b-b9rtxvJSU0Kt40NZSvvImsLRDulFMn/view)
+📄 **Resume**: [View Resume](https://drive.google.com/file/d/1x0Io6luxovadLH5I8vf0vvxxeulVNeBJ/view?usp=sharing)
 
 ---
 
