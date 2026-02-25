@@ -9,7 +9,7 @@ Software Development Engineer | Frontend Developer | B.Tech CSE | Kanpur, India
 ## 👋 Hi, I'm Ansh Dwivedi
 
 I am **Ansh Dwivedi**, a passionate Software Development Engineer and Frontend Developer from Kanpur, India.  
-Currently pursuing B.Tech in Computer Science & Engineering and working on real-world web applications using modern technologies.
+Currently pursuing B.Tech in Computer Science & Engineering and building scalable web applications using modern technologies.
 
 ---
 
@@ -19,16 +19,17 @@ Currently pursuing B.Tech in Computer Science & Engineering and working on real-
 - 💻 Frontend Developer (React.js, Next.js, Tailwind CSS)
 - 🛰️ Worked on Web GIS Applications (IIT Kanpur Internship)
 - 🧠 Strong in Data Structures & Algorithms
-- 🌱 Currently exploring Full Stack Development
-- 📍 Location: Kanpur, India
+- 🌱 Exploring Full Stack Development
+- 📍 Based in Kanpur, India
 
 ---
 
-## 🌐 Official Links of Ansh Dwivedi
+## 🌐 Official Profiles of Ansh Dwivedi
 
 - 🔗 Portfolio: https://anshdwivedi.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/anshdwivedi-/
 - 🧑‍💻 GitHub: https://github.com/Anshdwivedi12
+- 📸 Instagram: https://instagram.com/anshdwivedi.in
 - 💻 LeetCode: https://leetcode.com/u/anshdubeyjii/
 - 📚 GeeksforGeeks: https://www.geeksforgeeks.org/user/anshdubehvk/
 
@@ -54,12 +55,11 @@ Git | VS Code | GitHub
 
 ## 🚀 Featured Projects by Ansh Dwivedi
 
-- **Lifecalc** – Daily Life Calculator Web App  
-- **Crypto Tracker** – Real-Time Cryptocurrency Tracker  
-- **Web GIS Dashboard** – Built during IIT Kanpur Internship  
-- **Multiple JavaScript Mini Projects**
+- Lifecalc – Daily Life Calculator Web App  
+- Crypto Tracker – Real-Time Cryptocurrency Tracker  
+- Web GIS Dashboard – Built during IIT Kanpur Internship  
 
-All projects are developed and maintained by **Ansh Dwivedi – Frontend Developer from Kanpur**.
+All projects are developed by **Ansh Dwivedi – Frontend Developer from Kanpur, India**.
 
 ---
 
@@ -73,8 +73,8 @@ All projects are developed and maintained by **Ansh Dwivedi – Frontend Develop
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with Ansh Dwivedi
 
-If you're looking for a **Frontend Developer, React Developer, or Software Development Engineer**, feel free to connect.
+If you're looking for a Frontend Developer, React Developer, or Software Development Engineer — feel free to connect.
 
 ⭐ This is the official GitHub profile of Ansh Dwivedi.
