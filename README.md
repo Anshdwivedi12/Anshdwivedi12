@@ -65,7 +65,7 @@ const ansh: Developer = {
     "System Design Fundamentals",
   ],
 
-  experience:   "Web GIS Applications — IIT Kanpur Internship 🛰️",
+  experience:   "Student Research Associate — IIT Kanpur Internship 🛰️",
 
   strengths: [
     "Data Structures & Algorithms 🧠",
@@ -159,35 +159,6 @@ export default ansh;
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anshdwivedi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&count_private=true" />
-&nbsp;
-<img height="180px" src="https://nirzak-streak-stats.vercel.app?user=Anshdwivedi12&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/><br/>
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshdwivedi12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Anshdwivedi12&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anshdwivedi12&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area_color=7c3aed&area=true&hide_border=true&custom_title=Ansh's%20Contribution%20Graph" />
-</div>
 
 ---
 
