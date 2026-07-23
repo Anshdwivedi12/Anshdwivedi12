@@ -20,7 +20,7 @@
   <a href="https://anshdwivedi.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/anshdwivedi-/">
+  <a href="https://www.linkedin.com/in/anshdwivedi12/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/anshdubeyjii/">
