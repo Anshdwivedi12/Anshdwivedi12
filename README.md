@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ansh%20Dwivedi&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Software%20Development%20Engineer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20B.Tech%20CSE&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ansh%20Dwivedi&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Graduate%20Engineer%20Trainee%20%E2%80%A2%20Oracle%20SQL%20%26%20PLSQL%20%E2%80%A2%20Informatica%20IICS%20%E2%80%A2%20BI&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=const+ansh+%3D+new+Developer(%22Kanpur%2C+India%22)%3B;ansh.build(%22Scalable+Web+Apps%22)%3B;ansh.skills.push(%22React%22%2C+%22Next.js%22%2C+%22DSA%22)%3B;ansh.openTo(%22Full-Time+%7C+Internships%22)%3B+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=const+ansh+%3D+new+Developer(%22Kanpur%2C+India%22)%3B;ansh.learns(%22Oracle+SQL+%26+PLSQL%22)%3B;ansh.skills.push(%22Informatica+IICS%22%2C+%22BI%22%2C+%22SQL%22)%3B;ansh.builds(%22WebGIS+%26+Data+Solutions%22)%3B" alt="Typing SVG" />
 
 <br/>
 
 <!-- BADGES ROW -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Anshdwivedi12&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-HCLTech-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20In-Kanpur%2C%20India-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:anshdubeyjii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 ```typescript
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //  @author  : Ansh Dwivedi
-//  @role    : Software Development Engineer
+//  @role    : Graduate Engineer Trainee @ HCLTech
 //  @version : 2026.latest
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -48,10 +48,10 @@ interface Developer {
   name: string;
   education: string;
   location: string;
+  currentRole: string;
   currentFocus: string[];
-  experience: string;
+  previousExperience: string;
   strengths: string[];
-  openTo: string[];
 }
 
 const ansh: Developer = {
@@ -59,133 +59,25 @@ const ansh: Developer = {
   education:    "B.Tech Computer Science & Engineering",
   location:     "Kanpur, Uttar Pradesh, India 📍",
 
+  currentRole:  "Graduate Engineer Trainee @ HCLTech",
+
   currentFocus: [
-    "Scalable Frontend with React.js & Next.js",
-    "Full Stack Development",
-    "System Design Fundamentals",
+    "Oracle SQL & PL/SQL",
+    "Informatica IICS",
+    "Business Intelligence (BI)",
+    "SQL & Database Development",
+    "ETL & Data Integration",
   ],
 
-  experience:   "Student Research Associate — IIT Kanpur Internship 🛰️",
+  previousExperience:
+    "Web-GIS Developer — TerrAqua UAV 🛰️",
 
   strengths: [
-    "Data Structures & Algorithms 🧠",
-    "Frontend Architecture",
-    "Clean, Maintainable Code",
-    "Fast Learner & Problem Solver",
-  ],
+    "SQL & Database Concepts",
+    "Problem Solving 🧠",
+    "Data & ETL Concepts",
+    "WebGIS & Geospatial Technologies",
+    "Fast Learner",
+];
 
-  openTo: ["Full-Time SDE Roles", "Internships", "Open Source Collaboration"],
-};
-
-// Fun fact: I debug with console.log and I'm not even sorry 🔥
 export default ansh;
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🔧 Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧮 Lifecalc</h3>
-      <p><b>Daily Life Calculator Web App</b></p>
-      <p>A smart utility app for everyday calculations — clean UI, fast performance</p>
-      <br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-    </td>
-    <td align="center" width="33%">
-      <h3>📈 Crypto Tracker</h3>
-      <p><b>Real-Time Cryptocurrency Dashboard</b></p>
-      <p>Live price tracking, market cap & trends via public crypto APIs</p>
-      <br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🗺️ Web GIS Dashboard</h3>
-      <p><b>Geospatial Web App — IIT Kanpur</b></p>
-      <p>Interactive GIS dashboard built during internship at IIT Kanpur</p>
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/GIS_Maps-2F8D46?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---:|
-| 🌍 **Portfolio** | [anshdwivedi.netlify.app](https://anshdwivedi.netlify.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/anshdwivedi-](https://www.linkedin.com/in/anshdwivedi-/) |
-| 🐙 **GitHub** | [github.com/Anshdwivedi12](https://github.com/Anshdwivedi12) |
-| 💻 **LeetCode** | [leetcode.com/u/anshdubeyjii](https://leetcode.com/u/anshdubeyjii/) |
-| 📚 **GeeksforGeeks** | [geeksforgeeks.org/user/anshdubehvk](https://www.geeksforgeeks.org/user/anshdubehvk/) |
-| 📸 **Instagram** | [@anshdwivedi.in](https://instagram.com/anshdwivedi.in) |
-| 📫 **Email** | [anshdubeyjii@gmail.com](mailto:anshdubeyjii@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
-
-</div>
