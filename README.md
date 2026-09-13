@@ -18,21 +18,23 @@
 
 <!-- CONNECT BADGES -->
 <p>
-  <a href="https://anshdwivedi.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/anshdwivedi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://anshdwivedi.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge" />
+</a>
 
-  <a href="https://leetcode.com/u/anshdubeyjii/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/anshdwivedi-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="mailto:anshdubeyjii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://leetcode.com/u/anshdubeyjii/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:anshdubeyjii@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 </div>
@@ -43,17 +45,19 @@
 
 ### Graduate Engineer Trainee @ HCLTech
 
-B.Tech Computer Science & Engineering graduate with an interest in **database technologies, data integration, Business Intelligence and software development**.
+B.Tech Computer Science & Engineering graduate with experience in **research, WebGIS development, and software technologies**.
 
-Currently developing my technical skills in:
+Currently working as a **Graduate Engineer Trainee at HCLTech**, with a technical focus on:
 
 **Oracle SQL • PL/SQL • Informatica IICS • SQL • Business Intelligence**
 
-I also have previous experience as a **Web-GIS Developer**, working with geospatial web applications, spatial databases and UAV/satellite data workflows.
+Previously worked as a **Student Research Associate at IIT Kanpur** and as a **Web-GIS Developer at TerrAqua UAV**.
+
+I enjoy learning new technologies, solving technical problems, and building practical solutions.
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 ```typescript
 interface Developer {
@@ -62,11 +66,12 @@ interface Developer {
   location: string;
   currentRole: string;
   currentFocus: string[];
-  previousExperience: string;
+  experience: string[];
   strengths: string[];
 }
 
 const ansh: Developer = {
+
   name: "Ansh Dwivedi",
 
   education:
@@ -87,8 +92,11 @@ const ansh: Developer = {
     "ETL & Data Integration"
   ],
 
-  previousExperience:
-    "Web-GIS Developer @ TerrAqua UAV 🛰️",
+  experience: [
+    "Graduate Engineer Trainee @ HCLTech",
+    "Web-GIS Developer @ TerrAqua UAV",
+    "Student Research Associate @ IIT Kanpur"
+  ],
 
   strengths: [
     "SQL & Database Concepts",
